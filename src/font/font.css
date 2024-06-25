@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "MainFont";
+	font-style: normal;
+	src: url("./MainFont.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "MainFontB";
+	font-style: normal;
+	src: url("./MainFont_Bold.ttf") format("truetype");
+}

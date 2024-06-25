@@ -13,7 +13,13 @@ html {
 body{
   width: 100vw;
   height: 100vh;
+  background-color: white;
+  background-image: url("/src/assets/img/ChatHoshinoBG.png");
+  background-size: cover;
+  background-position: center center;
+  /* background-repeat: no-repeat; */
   color: white;
+  font-family: "MainFont"
 }
 #root {
   width: 100%;
